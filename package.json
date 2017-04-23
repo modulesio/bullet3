@@ -1,0 +1,25 @@
+{
+  "name": "bullet3",
+  "version": "0.0.1",
+  "description": "Bullet3 build compatible with node.js native bindings",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesio/bullet3.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesio/bullet3/issues"
+  },
+  "homepage": "https://github.com/modulesio/bullet3#readme"
+}
