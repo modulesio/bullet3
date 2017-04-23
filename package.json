@@ -1,6 +1,6 @@
 {
   "name": "bullet3",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bullet3 build compatible with node.js native bindings",
   "main": "index.js",
   "directories": {
